@@ -1,0 +1,2 @@
+# CursoPlatziGit
+Repositorio de prueba
